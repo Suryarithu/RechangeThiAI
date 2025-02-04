@@ -15,7 +15,7 @@
 
 
 body {
-    background:#fff;
+    background:#d2b356;
 }
 
 
@@ -112,7 +112,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Secondary Background and Text Colors */
 
 .secondary-color {
-    background-color:#f5f5f5;
+    background-color: #d2b356;
 }
 
 
@@ -123,10 +123,10 @@ a:hover, #header.nav-solid nav a:hover {
 
 /* Banner Background and Text Colors */
 
-#banner {
-    background: url("../images/banner-images/banner-image-1.jpg") no-repeat center top;
-    background-size:cover;
-}
+/* #banner {
+    background: url("../images/banner-images/banner-image-1.png") no-repeat center top;
+    /* background-size:cover; 
+} */
 
 
 /*------------------------------------------------------------------------------------------*/
@@ -138,7 +138,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:15px;
     font-weight:normal;
-    color:#111;
+    color:white;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
